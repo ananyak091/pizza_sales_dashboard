@@ -33,7 +33,7 @@ This is a dynamic and interactive Excel dashboard project that analyzes pizza sa
 
 | File | Description |
 |------|-------------|
-| Pizza_Sales_Dashboard.xlsx | The fully designed Excel dashboard (with charts & slicers) |
+| https://github.com/ananyak091/pizza_sales_dashboard/blob/main/Pizza_Sales_Dashboard.xlsx | The fully designed Excel dashboard (with charts & slicers) |
 | https://github.com/ananyak091/pizza_sales_dashboard/blob/main/Screenshot%202025-07-27%20193432.png | Static image preview of the dashboard |
 
 Note: GitHub does not preview `.xlsx` files — download and open in Excel to view it fully.
@@ -79,6 +79,6 @@ Built as part of a personal learning project to practice Excel dashboard creatio
 
 ## 📎 How to Use
 
-1. Download the Pizza_Sales_Dashboard.xlsx file
+1. Download the https://github.com/ananyak091/pizza_sales_dashboard/blob/main/Pizza_Sales_Dashboard.xlsx
 2. Open in Excel (PC or Mac)
 3. Use slicers to explore sales across time, category, and pizza size
