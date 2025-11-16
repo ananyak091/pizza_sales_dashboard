@@ -82,3 +82,10 @@ Built as part of a personal learning project to practice Excel dashboard creatio
 1. Download the https://github.com/ananyak091/pizza_sales_dashboard/blob/main/Pizza_Sales_Dashboard.xlsx
 2. Open in Excel (PC or Mac)
 3. Use slicers to explore sales across time, category, and pizza size
+
+
+## For Resume 
+•	Built an Excel dashboard with slicers to analyze 48K+ orders & 49K+ items, uncovering trends in revenue, sales, and customer preferences.
+•	Key findings: avg. revenue/order $16.8, peak sales 12 PM, Fridays top revenue, July highest month.
+•	Insights: Classic pizzas led sales, Thai Chicken Pizza top earner, revenue dipped post-Dec.
+
